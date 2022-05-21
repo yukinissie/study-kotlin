@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc705980-ade1-49c7-bc8e-6ad6eeb7252c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/MainKtTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,30 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MainKtTest.max">
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration name="MainKtTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;MainKtTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="MainKtTest.max" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -119,8 +142,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.MainKtTest.max" />
         <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Gradle.MainKtTest" />
+        <item itemvalue="Gradle.MainKtTest.max" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +157,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653095762134</updated>
       <workItem from="1653095764453" duration="710000" />
-      <workItem from="1653096499384" duration="1751000" />
+      <workItem from="1653096499384" duration="3215000" />
     </task>
     <servers />
   </component>

@@ -1,10 +1,7 @@
 fun main(args: Array<String>) {
-    println("Hello World!")
-    println(max(10, 100))
-
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
+    val question = "The Question"
+    val answer = 20
+    println("Question: ${question}\nAnswer: $answer")
 }
 
 // def max(a, b) a > b ? a : b end
